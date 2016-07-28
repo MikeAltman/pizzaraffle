@@ -1,6 +1,2 @@
 # pizzaraffle
-# pizzaraffle
-# pizzaraffle
-# pizzaraffle
-# pizzaraffle
-# pizzaraffle
+A chance to win a pizza.
