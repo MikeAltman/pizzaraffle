@@ -1,7 +1,10 @@
 ---
-title: Pizzaraffle
+title: Pizza Raffle
 timezone: UTC
 collections:
+  homepage:
+    title: Homepage
+    output: true
   posts:
     title: Posts
     output: true
